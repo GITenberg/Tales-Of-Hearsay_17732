@@ -17,6 +17,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Conrad
 description: 'Tales of hearsay: The warrior''s soul. Prince Roman. The tale. The black
   mate -- Suspense.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17732#Tales-Of-Hearsay
 gutenberg_issued: '2006-02-09'
 gutenberg_type: Text
 identifiers:
